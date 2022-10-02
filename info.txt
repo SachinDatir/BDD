@@ -1,0 +1,3 @@
+BDD -behavior-driven development
+-It is written in simple English Language
+-BDD improves communication between technical and non-technical stakeholders.
